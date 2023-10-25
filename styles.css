@@ -1,0 +1,65 @@
+.CITstyles{
+        margin-right: 25px;
+        text-decoration: none;
+        color: red;
+        font: 20px;
+        font-family: arial;
+    }
+.COEstyles{
+        margin-right: 25px;
+        text-decoration: none;
+        color: maroon;
+        font: 20px;
+        font-family: arial;
+    }
+.CTEstyles{
+        margin-right: 25px;
+        text-decoration: none;
+        color: yellow;
+        font: 20px;
+        font-family: arial;
+    }
+a{
+    margin-right: 25px;
+    text-decoration: none;
+    color: white;
+    font: 20px;
+    font-family: arial;
+}
+p{
+    background-color: darkgreen;
+    padding: 15px;
+    border: 3px solid gold;
+    text-align: right;
+}
+img{
+    display: block;
+    margin: auto;
+    border: 3px solid darkgreen;
+    border-radius: 50%;
+}
+table{
+    border: 1px solid gold;
+    border-collapse: collapse; 
+}
+td{
+    border: 1px solid gold;
+    padding: 5px 15px;
+}
+tr:nth-child(odd){
+    background-color: darkgreen;
+}
+a:hover{
+    background-color: white;
+    color: black;
+    padding: 5px;
+}
+img:hover{
+    display: block;
+    margin: auto;
+    width: 20%;
+    height: 20%;
+    border: 3px solid green;
+    border-radius: 50%;
+    box-shadow: 15px 15px 15px black;
+}
